@@ -1,0 +1,660 @@
+2021-08-09 01:00:00 | ADA-ETH | 3600 | Close: 0.00048200 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | -7.87798% (delta: -3.6e-05)
+
+2021-08-09 02:00:00 | ADA-ETH | 3600 | Close: 0.00048200 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -7.87798% (delta: -3.6e-05)
+
+2021-08-09 03:00:00 | ADA-ETH | 3600 | Close: 0.00048100 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | -8.06911% (delta: -3.7e-05)
+
+2021-08-09 04:00:00 | ADA-ETH | 3600 | Close: 0.00048000 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -8.26023% (delta: -3.8e-05)
+
+2021-08-09 05:00:00 | ADA-ETH | 3600 | Close: 0.00048100 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -8.06911% (delta: -3.7e-05)
+
+2021-08-09 06:00:00 | ADA-ETH | 3600 | Close: 0.00048200 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | -7.87798% (delta: -3.6e-05)
+
+2021-08-09 07:00:00 | ADA-ETH | 3600 | Close: 0.00048600 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | -7.11348% (delta: -3.2e-05)
+
+2021-08-09 08:00:00 | ADA-ETH | 3600 | Close: 0.00048400 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -7.49573% (delta: -3.4e-05)
+
+2021-08-09 09:00:00 | ADA-ETH | 3600 | Close: 0.00047800 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | -8.64248% (delta: -4e-05)
+
+2021-08-09 10:00:00 | ADA-ETH | 3600 | Close: 0.00047300 | *v MACD: 0.00000 < 0.00000 v* | ERI: sell | WAIT | Last Action: BUY | -9.59810% (delta: -4.5e-05)
+
+2021-08-09 11:00:00 | ADA-ETH | 3600 | Close: 0.00047000 | v MACD: 0.00000 < 0.00000 v | ERI: sell | WAIT | Last Action: BUY | -10.17148% (delta: -4.8e-05)
+
+2021-08-09 12:00:00 | ADA-ETH | 3600 | Close: 0.00046700 | v MACD: -0.00000 < 0.00000 v | ERI: buy | SELL | Last Action: BUY | -10.74485% (delta: -5.1e-05)
+
+2021-08-09 12:00:00 | ADA-ETH | 3600 | SELL | 0.000467 | BUY | 0.000518 | DIFF | -5.099999999999999e-05 | DIFF | -107.44850386 | MARGIN NO FEES | -10.74485% | MARGIN FEES | 4.4851834
+2021-08-09 13:00:00 | ADA-ETH | 3600 | Close: 0.00047000 | v MACD: -0.00000 < 0.00000 v | ERI: sell | WAIT | Last Action: SELL
+2021-08-09 14:00:00 | ADA-ETH | 3600 | Close: 0.00047200 | v MACD: -0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: SELL
+2021-08-09 15:00:00 | ADA-ETH | 3600 | Close: 0.00046900 | v MACD: -0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: SELL
+2021-08-09 16:00:00 | ADA-ETH | 3600 | Close: 0.00046900 | v MACD: -0.00000 < -0.00000 v | ERI: buy | WAIT | Last Action: SELL
+2021-08-09 17:00:00 | ADA-ETH | 3600 | Close: 0.00047300 | v MACD: -0.00000 < -0.00000 v | ERI: buy | WAIT | Last Action: SELL
+2021-08-09 18:00:00 | ADA-ETH | 3600 | Close: 0.00047000 | v MACD: -0.00000 < -0.00000 v | ERI: buy | WAIT | Last Action: SELL
+2021-08-09 19:00:00 | ADA-ETH | 3600 | Close: 0.00047100 | v MACD: -0.00000 < -0.00000 v | ERI: buy | WAIT | Last Action: SELL
+2021-08-09 20:00:00 | ADA-ETH | 3600 | Close: 0.00047600 | v MACD: -0.00000 < -0.00000 v | ERI: buy | WAIT | Last Action: SELL
+2021-08-09 21:00:00 | ADA-ETH | 3600 | Close: 0.00047300 | v MACD: -0.00000 < -0.00000 v | ERI: buy | WAIT | Last Action: SELL
+2021-08-09 22:00:00 | ADA-ETH | 3600 | Close: 0.00047100 | v MACD: -0.00000 < -0.00000 v | ERI: sell | WAIT | Last Action: SELL
+2021-08-09 23:00:00 | ADA-ETH | 3600 | Close: 0.00046600 | v MACD: -0.00000 < -0.00000 v | ERI: sell | WAIT | Last Action: SELL
+2021-08-10 00:00:00 | ADA-ETH | 3600 | Close: 0.00047000 | v MACD: -0.00000 < -0.00000 v | ERI: buy | WAIT | Last Action: SELL
+2021-08-10 01:00:00 | ADA-ETH | 3600 | Close: 0.00047000 | v MACD: -0.00000 < -0.00000 v | ERI: buy | WAIT | Last Action: SELL
+2021-08-10 02:00:00 | ADA-ETH | 3600 | Close: 0.00046800 | v MACD: -0.00000 < -0.00000 v | ERI: sell | WAIT | Last Action: SELL
+2021-08-10 03:00:00 | ADA-ETH | 3600 | Close: 0.00046800 | v MACD: -0.00000 < -0.00000 v | ERI: buy | WAIT | Last Action: SELL
+2021-08-10 04:00:00 | ADA-ETH | 3600 | Close: 0.00047200 | v MACD: -0.00000 < -0.00000 v | ERI: buy | WAIT | Last Action: SELL
+2021-08-10 05:00:00 | ADA-ETH | 3600 | Close: 0.00047200 | *^ MACD: -0.00000 > -0.00000 ^* | ERI: buy | BUY | Last Action: SELL
+2021-08-10 05:00:00 | ADA-ETH | 3600 | Close: 0.00047200 | BUY
+ Resistance level of 0.000478 formed at 2021-08-09 21:00:00
+ Fibonacci Retracement Levels:{'ratio1': 0.0, 'ratio0_768': 0.0}
+2021-08-10 06:00:00 | ADA-ETH | 3600 | Close: 0.00047100 | ^ MACD: -0.00000 > -0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | -1.20725% (delta: -1e-06)
+
+2021-08-10 07:00:00 | ADA-ETH | 3600 | Close: 0.00047000 | ^ MACD: -0.00000 > -0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | -1.41700% (delta: -2e-06)
+
+2021-08-10 08:00:00 | ADA-ETH | 3600 | Close: 0.00046700 | *v MACD: -0.00000 < -0.00000 v* | ERI: sell | WAIT | Last Action: BUY | -2.04626% (delta: -5e-06)
+
+2021-08-10 09:00:00 | ADA-ETH | 3600 | Close: 0.00047400 | *^ MACD: -0.00000 > -0.00000 ^* | ERI: buy | WAIT | Last Action: BUY | -0.57800% (delta: 2e-06)
+
+2021-08-10 10:00:00 | ADA-ETH | 3600 | Close: 0.00049799 | ^ MACD: 0.00000 > -0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | 4.45602754% (delta: 2.6e-05)
+
+2021-08-10 11:00:00 | ADA-ETH | 3600 | Close: 0.00050400 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | 5.71453390% (delta: 3.2e-05)
+
+2021-08-10 12:00:00 | ADA-ETH | 3600 | Close: 0.00049600 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | 4.03652542% (delta: 2.4e-05)
+
+2021-08-10 13:00:00 | ADA-ETH | 3600 | Close: 0.00049700 | ^ MACD: 0.00001 > 0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | 4.24627647% (delta: 2.5e-05)
+
+2021-08-10 14:00:00 | ADA-ETH | 3600 | Close: 0.00049900 | ^ MACD: 0.00001 > 0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | 4.66577860% (delta: 2.7e-05)
+
+2021-08-10 15:00:00 | ADA-ETH | 3600 | Close: 0.00049900 | ^ MACD: 0.00001 > 0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | 4.66577860% (delta: 2.7e-05)
+
+2021-08-10 16:00:00 | ADA-ETH | 3600 | Close: 0.00050000 | ^ MACD: 0.00001 > 0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | 4.87552966% (delta: 2.8e-05)
+
+2021-08-10 17:00:00 | ADA-ETH | 3600 | Close: 0.00050600 | ^ MACD: 0.00001 > 0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | 6.13403602% (delta: 3.4e-05)
+
+2021-08-10 18:00:00 | ADA-ETH | 3600 | Close: 0.00050700 | ^ MACD: 0.00001 > 0.00001 ^ | ERI: buy | WAIT | Last Action: BUY | 6.34378708% (delta: 3.5e-05)
+
+2021-08-10 19:00:00 | ADA-ETH | 3600 | Close: 0.00050400 | ^ MACD: 0.00001 > 0.00001 ^ | ERI: sell | WAIT | Last Action: BUY | 5.71453390% (delta: 3.2e-05)
+
+2021-08-10 20:00:00 | ADA-ETH | 3600 | Close: 0.00051000 | ^ MACD: 0.00001 > 0.00001 ^ | ERI: buy | WAIT | Last Action: BUY | 6.97304025% (delta: 3.8e-05)
+
+! Trailing Stop Loss Triggered (< -1.5%)
+2021-08-10 21:00:00 | ADA-ETH | 3600 | Close: 0.00053300 | ^ MACD: 0.00001 > 0.00001 ^ | ERI: buy | SELL | Last Action: BUY | 11.79731462% (delta: 6.1e-05)
+
+2021-08-10 21:00:00 | ADA-ETH | 3600 | SELL | 0.000533 | BUY | 0.000472 | DIFF | 6.100000000000007e-05 | DIFF | 105.29710813 | MARGIN NO FEES | 11.79731462% | MARGIN FEES | 5.01431459
+2021-08-10 22:00:00 | ADA-ETH | 3600 | Close: 0.00052600 | ^ MACD: 0.00001 > 0.00001 ^ | ERI: sell | WAIT | Last Action: SELL
+2021-08-10 23:00:00 | ADA-ETH | 3600 | Close: 0.00053400 | ^ MACD: 0.00001 > 0.00001 ^ | ERI: sell | WAIT | Last Action: SELL
+*** smart switch from granularity 3600 (1 hour) to 900 (15 min) ***
+2021-08-11 00:00:00 | ADA-ETH | 900 | Close: 0.00053700 | ^ MACD: 0.00001 > 0.00001 ^ | ERI: buy | BUY | Last Action: SELL
+2021-08-11 00:00:00 | ADA-ETH | 900 | Close: 0.00053700 | BUY
+ Support level of 0.000478 formed at 2021-08-09 21:00:00
+ Fibonacci Retracement Levels:{'ratio0_286': 0.0, 'ratio0': 0.0}
+2021-08-11 00:15:00 | ADA-ETH | 900 | Close: 0.00053200 | ^ MACD: 0.00001 > 0.00001 ^ | ERI: sell | WAIT | Last Action: BUY | -1.91931% (delta: -5e-06)
+
+2021-08-11 00:30:00 | ADA-ETH | 900 | Close: 0.00053100 | *v MACD: 0.00001 < 0.00001 v* | ERI: sell | WAIT | Last Action: BUY | -2.10367% (delta: -6e-06)
+
+2021-08-11 00:45:00 | ADA-ETH | 900 | Close: 0.00053700 | v MACD: 0.00001 < 0.00001 v | ERI: buy | WAIT | Last Action: BUY | -0.99750% (delta: 0.0)
+
+2021-08-11 01:00:00 | ADA-ETH | 900 | Close: 0.00053900 | *^ MACD: 0.00001 > 0.00001 ^* | ERI: buy | WAIT | Last Action: BUY | -0.62878% (delta: 2e-06)
+
+2021-08-11 01:15:00 | ADA-ETH | 900 | Close: 0.00054400 | ^ MACD: 0.00001 > 0.00001 ^ | ERI: buy | WAIT | Last Action: BUY | 0.29303538% (delta: 7e-06)
+
+2021-08-11 01:30:00 | ADA-ETH | 900 | Close: 0.00054100 | ^ MACD: 0.00001 > 0.00001 ^ | ERI: sell | WAIT | Last Action: BUY | -0.26005% (delta: 4e-06)
+
+2021-08-11 01:45:00 | ADA-ETH | 900 | Close: 0.00054199 | ^ MACD: 0.00001 > 0.00001 ^ | ERI: sell | WAIT | Last Action: BUY | -0.07569% (delta: 5e-06)
+
+2021-08-11 02:00:00 | ADA-ETH | 900 | Close: 0.00054000 | ^ MACD: 0.00001 > 0.00001 ^ | ERI: sell | WAIT | Last Action: BUY | -0.44441% (delta: 3e-06)
+
+2021-08-11 02:15:00 | ADA-ETH | 900 | Close: 0.00053900 | *v MACD: 0.00001 < 0.00001 v* | ERI: sell | WAIT | Last Action: BUY | -0.62878% (delta: 2e-06)
+
+2021-08-11 02:30:00 | ADA-ETH | 900 | Close: 0.00054199 | v MACD: 0.00001 < 0.00001 v | ERI: sell | WAIT | Last Action: BUY | -0.07569% (delta: 5e-06)
+
+2021-08-11 02:45:00 | ADA-ETH | 900 | Close: 0.00054600 | v MACD: 0.00001 < 0.00001 v | ERI: buy | WAIT | Last Action: BUY | 0.66175978% (delta: 9e-06)
+
+2021-08-11 03:00:00 | ADA-ETH | 900 | Close: 0.00054199 | v MACD: 0.00001 < 0.00001 v | ERI: sell | WAIT | Last Action: BUY | -0.07569% (delta: 5e-06)
+
+2021-08-11 03:15:00 | ADA-ETH | 900 | Close: 0.00054500 | v MACD: 0.00001 < 0.00001 v | ERI: sell | WAIT | Last Action: BUY | 0.47739758% (delta: 8e-06)
+
+2021-08-11 03:30:00 | ADA-ETH | 900 | Close: 0.00054300 | v MACD: 0.00001 < 0.00001 v | ERI: buy | WAIT | Last Action: BUY | 0.10867319% (delta: 6e-06)
+
+2021-08-11 03:45:00 | ADA-ETH | 900 | Close: 0.00054199 | v MACD: 0.00001 < 0.00001 v | ERI: buy | WAIT | Last Action: BUY | -0.07569% (delta: 5e-06)
+
+2021-08-11 04:00:00 | ADA-ETH | 900 | Close: 0.00053900 | v MACD: 0.00001 < 0.00001 v | ERI: sell | WAIT | Last Action: BUY | -0.62878% (delta: 2e-06)
+
+2021-08-11 04:15:00 | ADA-ETH | 900 | Close: 0.00053600 | v MACD: 0.00000 < 0.00001 v | ERI: sell | WAIT | Last Action: BUY | -1.18186% (delta: -1e-06)
+
+2021-08-11 04:30:00 | ADA-ETH | 900 | Close: 0.00054199 | v MACD: 0.00000 < 0.00001 v | ERI: buy | WAIT | Last Action: BUY | -0.07569% (delta: 5e-06)
+
+2021-08-11 04:45:00 | ADA-ETH | 900 | Close: 0.00054300 | v MACD: 0.00000 < 0.00001 v | ERI: buy | WAIT | Last Action: BUY | 0.10867319% (delta: 6e-06)
+
+2021-08-11 05:00:00 | ADA-ETH | 900 | Close: 0.00054500 | v MACD: 0.00000 < 0.00001 v | ERI: buy | WAIT | Last Action: BUY | 0.47739758% (delta: 8e-06)
+
+2021-08-11 05:15:00 | ADA-ETH | 900 | Close: 0.00054800 | v MACD: 0.00000 < 0.00001 v | ERI: buy | WAIT | Last Action: BUY | 1.03048417% (delta: 1.1e-05)
+
+2021-08-11 05:30:00 | ADA-ETH | 900 | Close: 0.00054800 | v MACD: 0.00000 < 0.00001 v | ERI: buy | WAIT | Last Action: BUY | 1.03048417% (delta: 1.1e-05)
+
+2021-08-11 05:45:00 | ADA-ETH | 900 | Close: 0.00055099 | v MACD: 0.00001 < 0.00001 v | ERI: sell | WAIT | Last Action: BUY | 1.58357076% (delta: 1.4e-05)
+
+2021-08-11 06:00:00 | ADA-ETH | 900 | Close: 0.00055700 | *^ MACD: 0.00001 > 0.00001 ^* | ERI: buy | WAIT | Last Action: BUY | 2.68974395% (delta: 2e-05)
+
+2021-08-11 06:15:00 | ADA-ETH | 900 | Close: 0.00056200 | ^ MACD: 0.00001 > 0.00001 ^ | ERI: buy | WAIT | Last Action: BUY | 3.61155494% (delta: 2.5e-05)
+
+2021-08-11 06:30:00 | ADA-ETH | 900 | Close: 0.00055900 | ^ MACD: 0.00001 > 0.00001 ^ | ERI: sell | WAIT | Last Action: BUY | 3.05846834% (delta: 2.2e-05)
+
+2021-08-11 06:45:00 | ADA-ETH | 900 | Close: 0.00055300 | ^ MACD: 0.00001 > 0.00001 ^ | ERI: sell | WAIT | Last Action: BUY | 1.95229516% (delta: 1.6e-05)
+
+2021-08-11 07:00:00 | ADA-ETH | 900 | Close: 0.00055200 | ^ MACD: 0.00001 > 0.00001 ^ | ERI: sell | WAIT | Last Action: BUY | 1.76793296% (delta: 1.5e-05)
+
+2021-08-11 07:15:00 | ADA-ETH | 900 | Close: 0.00055300 | *v MACD: 0.00001 < 0.00001 v* | ERI: sell | WAIT | Last Action: BUY | 1.95229516% (delta: 1.6e-05)
+
+2021-08-11 07:30:00 | ADA-ETH | 900 | Close: 0.00054900 | v MACD: 0.00001 < 0.00001 v | ERI: buy | WAIT | Last Action: BUY | 1.21484637% (delta: 1.2e-05)
+
+2021-08-11 07:45:00 | ADA-ETH | 900 | Close: 0.00054800 | v MACD: 0.00000 < 0.00001 v | ERI: sell | WAIT | Last Action: BUY | 1.03048417% (delta: 1.1e-05)
+
+2021-08-11 08:00:00 | ADA-ETH | 900 | Close: 0.00054800 | v MACD: 0.00000 < 0.00001 v | ERI: buy | WAIT | Last Action: BUY | 1.03048417% (delta: 1.1e-05)
+
+2021-08-11 08:15:00 | ADA-ETH | 900 | Close: 0.00054699 | v MACD: 0.00000 < 0.00000 v | ERI: sell | WAIT | Last Action: BUY | 0.84612198% (delta: 1e-05)
+
+2021-08-11 08:30:00 | ADA-ETH | 900 | Close: 0.00054699 | v MACD: 0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: BUY | 0.84612198% (delta: 1e-05)
+
+2021-08-11 08:45:00 | ADA-ETH | 900 | Close: 0.00054900 | v MACD: 0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: BUY | 1.21484637% (delta: 1.2e-05)
+
+2021-08-11 09:00:00 | ADA-ETH | 900 | Close: 0.00055000 | v MACD: 0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: BUY | 1.39920857% (delta: 1.3e-05)
+
+2021-08-11 09:15:00 | ADA-ETH | 900 | Close: 0.00054699 | v MACD: 0.00000 < 0.00000 v | ERI: sell | WAIT | Last Action: BUY | 0.84612198% (delta: 1e-05)
+
+2021-08-11 09:30:00 | ADA-ETH | 900 | Close: 0.00055000 | v MACD: 0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: BUY | 1.39920857% (delta: 1.3e-05)
+
+2021-08-11 09:45:00 | ADA-ETH | 900 | Close: 0.00055099 | v MACD: 0.00000 < 0.00000 v | ERI: sell | WAIT | Last Action: BUY | 1.58357076% (delta: 1.4e-05)
+
+2021-08-11 10:00:00 | ADA-ETH | 900 | Close: 0.00055099 | v MACD: 0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: BUY | 1.58357076% (delta: 1.4e-05)
+
+2021-08-11 10:15:00 | ADA-ETH | 900 | Close: 0.00055099 | v MACD: 0.00000 < 0.00000 v | ERI: sell | WAIT | Last Action: BUY | 1.58357076% (delta: 1.4e-05)
+
+2021-08-11 10:30:00 | ADA-ETH | 900 | Close: 0.00055500 | v MACD: 0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: BUY | 2.32101955% (delta: 1.8e-05)
+
+2021-08-11 10:45:00 | ADA-ETH | 900 | Close: 0.00055400 | v MACD: 0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: BUY | 2.13665736% (delta: 1.7e-05)
+
+2021-08-11 11:00:00 | ADA-ETH | 900 | Close: 0.00055099 | v MACD: 0.00000 < 0.00000 v | ERI: sell | WAIT | Last Action: BUY | 1.58357076% (delta: 1.4e-05)
+
+2021-08-11 11:15:00 | ADA-ETH | 900 | Close: 0.00055300 | v MACD: 0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: BUY | 1.95229516% (delta: 1.6e-05)
+
+2021-08-11 11:30:00 | ADA-ETH | 900 | Close: 0.00055099 | v MACD: 0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: BUY | 1.58357076% (delta: 1.4e-05)
+
+2021-08-11 11:45:00 | ADA-ETH | 900 | Close: 0.00055000 | v MACD: 0.00000 < 0.00000 v | ERI: sell | WAIT | Last Action: BUY | 1.39920857% (delta: 1.3e-05)
+
+2021-08-11 12:00:00 | ADA-ETH | 900 | Close: 0.00054699 | v MACD: 0.00000 < 0.00000 v | ERI: sell | WAIT | Last Action: BUY | 0.84612198% (delta: 1e-05)
+
+2021-08-11 12:15:00 | ADA-ETH | 900 | Close: 0.00055000 | v MACD: 0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: BUY | 1.39920857% (delta: 1.3e-05)
+
+2021-08-11 12:30:00 | ADA-ETH | 900 | Close: 0.00055300 | v MACD: 0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: BUY | 1.95229516% (delta: 1.6e-05)
+
+2021-08-11 12:45:00 | ADA-ETH | 900 | Close: 0.00055599 | v MACD: 0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: BUY | 2.50538175% (delta: 1.9e-05)
+
+2021-08-11 13:00:00 | ADA-ETH | 900 | Close: 0.00055500 | *^ MACD: 0.00000 > 0.00000 ^* | ERI: sell | WAIT | Last Action: BUY | 2.32101955% (delta: 1.8e-05)
+
+2021-08-11 13:15:00 | ADA-ETH | 900 | Close: 0.00056700 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | 4.53336591% (delta: 3e-05)
+
+2021-08-11 13:30:00 | ADA-ETH | 900 | Close: 0.00057000 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | 5.08645251% (delta: 3.3e-05)
+
+2021-08-11 13:45:00 | ADA-ETH | 900 | Close: 0.00056899 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | 4.90209032% (delta: 3.2e-05)
+
+2021-08-11 14:00:00 | ADA-ETH | 900 | Close: 0.00058000 | ^ MACD: 0.00001 > 0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | 6.93007449% (delta: 4.3e-05)
+
+2021-08-11 14:15:00 | ADA-ETH | 900 | Close: 0.00057900 | ^ MACD: 0.00001 > 0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | 6.74571229% (delta: 4.2e-05)
+
+2021-08-11 14:30:00 | ADA-ETH | 900 | Close: 0.00057799 | ^ MACD: 0.00001 > 0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | 6.56135009% (delta: 4.1e-05)
+
+2021-08-11 14:45:00 | ADA-ETH | 900 | Close: 0.00057200 | ^ MACD: 0.00001 > 0.00001 ^ | ERI: sell | WAIT | Last Action: BUY | 5.45517691% (delta: 3.5e-05)
+
+2021-08-11 15:00:00 | ADA-ETH | 900 | Close: 0.00058000 | ^ MACD: 0.00001 > 0.00001 ^ | ERI: sell | WAIT | Last Action: BUY | 6.93007449% (delta: 4.3e-05)
+
+2021-08-11 15:15:00 | ADA-ETH | 900 | Close: 0.00057700 | ^ MACD: 0.00001 > 0.00001 ^ | ERI: buy | WAIT | Last Action: BUY | 6.37698790% (delta: 4e-05)
+
+2021-08-11 15:30:00 | ADA-ETH | 900 | Close: 0.00057300 | ^ MACD: 0.00001 > 0.00001 ^ | ERI: buy | WAIT | Last Action: BUY | 5.63953911% (delta: 3.6e-05)
+
+2021-08-11 15:45:00 | ADA-ETH | 900 | Close: 0.00056600 | ^ MACD: 0.00001 > 0.00001 ^ | ERI: sell | WAIT | Last Action: BUY | 4.34900373% (delta: 2.9e-05)
+
+2021-08-11 16:00:00 | ADA-ETH | 900 | Close: 0.00057100 | *v MACD: 0.00001 < 0.00001 v* | ERI: buy | WAIT | Last Action: BUY | 5.27081471% (delta: 3.4e-05)
+
+2021-08-11 16:15:00 | ADA-ETH | 900 | Close: 0.00057500 | v MACD: 0.00001 < 0.00001 v | ERI: buy | WAIT | Last Action: BUY | 6.00826350% (delta: 3.8e-05)
+
+2021-08-11 16:30:00 | ADA-ETH | 900 | Close: 0.00057400 | v MACD: 0.00001 < 0.00001 v | ERI: buy | WAIT | Last Action: BUY | 5.82390130% (delta: 3.7e-05)
+
+2021-08-11 16:45:00 | ADA-ETH | 900 | Close: 0.00057600 | v MACD: 0.00001 < 0.00001 v | ERI: buy | WAIT | Last Action: BUY | 6.19262570% (delta: 3.9e-05)
+
+2021-08-11 17:00:00 | ADA-ETH | 900 | Close: 0.00057600 | v MACD: 0.00001 < 0.00001 v | ERI: sell | WAIT | Last Action: BUY | 6.19262570% (delta: 3.9e-05)
+
+2021-08-11 17:15:00 | ADA-ETH | 900 | Close: 0.00057400 | v MACD: 0.00001 < 0.00001 v | ERI: buy | WAIT | Last Action: BUY | 5.82390130% (delta: 3.7e-05)
+
+2021-08-11 17:30:00 | ADA-ETH | 900 | Close: 0.00057500 | v MACD: 0.00001 < 0.00001 v | ERI: sell | WAIT | Last Action: BUY | 6.00826350% (delta: 3.8e-05)
+
+2021-08-11 17:45:00 | ADA-ETH | 900 | Close: 0.00057799 | v MACD: 0.00001 < 0.00001 v | ERI: buy | WAIT | Last Action: BUY | 6.56135009% (delta: 4.1e-05)
+
+2021-08-11 18:00:00 | ADA-ETH | 900 | Close: 0.00058000 | v MACD: 0.00001 < 0.00001 v | ERI: buy | WAIT | Last Action: BUY | 6.93007449% (delta: 4.3e-05)
+
+2021-08-11 18:15:00 | ADA-ETH | 900 | Close: 0.00057700 | v MACD: 0.00000 < 0.00001 v | ERI: buy | WAIT | Last Action: BUY | 6.37698790% (delta: 4e-05)
+
+2021-08-11 18:30:00 | ADA-ETH | 900 | Close: 0.00057700 | v MACD: 0.00000 < 0.00001 v | ERI: sell | WAIT | Last Action: BUY | 6.37698790% (delta: 4e-05)
+
+2021-08-11 18:45:00 | ADA-ETH | 900 | Close: 0.00057900 | v MACD: 0.00000 < 0.00001 v | ERI: buy | WAIT | Last Action: BUY | 6.74571229% (delta: 4.2e-05)
+
+2021-08-11 19:00:00 | ADA-ETH | 900 | Close: 0.00057700 | v MACD: 0.00000 < 0.00000 v | ERI: sell | WAIT | Last Action: BUY | 6.37698790% (delta: 4e-05)
+
+2021-08-11 19:15:00 | ADA-ETH | 900 | Close: 0.00057400 | v MACD: 0.00000 < 0.00000 v | ERI: sell | WAIT | Last Action: BUY | 5.82390130% (delta: 3.7e-05)
+
+2021-08-11 19:30:00 | ADA-ETH | 900 | Close: 0.00057600 | v MACD: 0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: BUY | 6.19262570% (delta: 3.9e-05)
+
+2021-08-11 19:45:00 | ADA-ETH | 900 | Close: 0.00057400 | v MACD: 0.00000 < 0.00000 v | ERI: sell | WAIT | Last Action: BUY | 5.82390130% (delta: 3.7e-05)
+
+2021-08-11 20:00:00 | ADA-ETH | 900 | Close: 0.00057700 | v MACD: 0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: BUY | 6.37698790% (delta: 4e-05)
+
+2021-08-11 20:15:00 | ADA-ETH | 900 | Close: 0.00057500 | v MACD: 0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: BUY | 6.00826350% (delta: 3.8e-05)
+
+2021-08-11 20:30:00 | ADA-ETH | 900 | Close: 0.00057400 | v MACD: 0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: BUY | 5.82390130% (delta: 3.7e-05)
+
+2021-08-11 20:45:00 | ADA-ETH | 900 | Close: 0.00057100 | v MACD: 0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: BUY | 5.27081471% (delta: 3.4e-05)
+
+2021-08-11 21:00:00 | ADA-ETH | 900 | Close: 0.00056200 | v MACD: 0.00000 < 0.00000 v | ERI: sell | WAIT | Last Action: BUY | 3.61155494% (delta: 2.5e-05)
+
+2021-08-11 21:15:00 | ADA-ETH | 900 | Close: 0.00056400 | v MACD: -0.00000 < 0.00000 v | ERI: buy | SELL | Last Action: BUY | 3.98027933% (delta: 2.7e-05)
+
+2021-08-11 21:15:00 | ADA-ETH | 900 | SELL | 0.000564 | BUY | 0.000537 | DIFF | 2.7000000000000006e-05 | DIFF | 39.71716174 | MARGIN NO FEES | 3.98027933% | MARGIN FEES | 5.21389832
+2021-08-11 21:30:00 | ADA-ETH | 900 | Close: 0.00056600 | v MACD: -0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: SELL
+2021-08-11 21:45:00 | ADA-ETH | 900 | Close: 0.00056700 | v MACD: -0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: SELL
+2021-08-11 22:00:00 | ADA-ETH | 900 | Close: 0.00056200 | v MACD: -0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: SELL
+2021-08-11 22:15:00 | ADA-ETH | 900 | Close: 0.00056200 | v MACD: -0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: SELL
+2021-08-11 22:30:00 | ADA-ETH | 900 | Close: 0.00056500 | v MACD: -0.00000 < -0.00000 v | ERI: buy | WAIT | Last Action: SELL
+2021-08-11 22:45:00 | ADA-ETH | 900 | Close: 0.00056600 | v MACD: -0.00000 < -0.00000 v | ERI: buy | WAIT | Last Action: SELL
+2021-08-11 23:00:00 | ADA-ETH | 900 | Close: 0.00056200 | v MACD: -0.00000 < -0.00000 v | ERI: buy | WAIT | Last Action: SELL
+2021-08-11 23:15:00 | ADA-ETH | 900 | Close: 0.00056300 | v MACD: -0.00000 < -0.00000 v | ERI: sell | WAIT | Last Action: SELL
+2021-08-11 23:30:00 | ADA-ETH | 900 | Close: 0.00056600 | v MACD: -0.00000 < -0.00000 v | ERI: buy | WAIT | Last Action: SELL
+2021-08-11 23:45:00 | ADA-ETH | 900 | Close: 0.00056700 | v MACD: -0.00000 < -0.00000 v | ERI: buy | WAIT | Last Action: SELL
+2021-08-12 00:00:00 | ADA-ETH | 900 | Close: 0.00057700 | *^ MACD: -0.00000 > -0.00000 ^* | ERI: buy | BUY | Last Action: SELL
+2021-08-12 00:00:00 | ADA-ETH | 900 | Close: 0.00057700 | BUY
+ Support level of 0.000558 formed at 2021-08-11 23:15:00
+ Fibonacci Retracement Levels:{'ratio0_286': 0.0, 'ratio0': 0.0}
+2021-08-12 00:15:00 | ADA-ETH | 900 | Close: 0.00057799 | ^ MACD: 0.00000 > -0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -0.82592% (delta: 1e-06)
+
+2021-08-12 00:30:00 | ADA-ETH | 900 | Close: 0.00057700 | ^ MACD: 0.00000 > -0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -0.99750% (delta: 0.0)
+
+2021-08-12 00:45:00 | ADA-ETH | 900 | Close: 0.00057700 | ^ MACD: 0.00000 > -0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -0.99750% (delta: 0.0)
+
+2021-08-12 01:00:00 | ADA-ETH | 900 | Close: 0.00057200 | ^ MACD: 0.00000 > -0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -1.85541% (delta: -5e-06)
+
+2021-08-12 01:15:00 | ADA-ETH | 900 | Close: 0.00057000 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -2.19857% (delta: -7e-06)
+
+2021-08-12 01:30:00 | ADA-ETH | 900 | Close: 0.00057000 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -2.19857% (delta: -7e-06)
+
+2021-08-12 01:45:00 | ADA-ETH | 900 | Close: 0.00056800 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -2.54173% (delta: -9e-06)
+
+2021-08-12 02:00:00 | ADA-ETH | 900 | Close: 0.00057000 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | -2.19857% (delta: -7e-06)
+
+2021-08-12 02:15:00 | ADA-ETH | 900 | Close: 0.00057400 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | -1.51224% (delta: -3e-06)
+
+2021-08-12 02:30:00 | ADA-ETH | 900 | Close: 0.00057600 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | -1.16908% (delta: -1e-06)
+
+2021-08-12 02:45:00 | ADA-ETH | 900 | Close: 0.00057600 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | -1.16908% (delta: -1e-06)
+
+2021-08-12 03:00:00 | ADA-ETH | 900 | Close: 0.00057400 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -1.51224% (delta: -3e-06)
+
+2021-08-12 03:15:00 | ADA-ETH | 900 | Close: 0.00057300 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -1.68383% (delta: -4e-06)
+
+2021-08-12 03:30:00 | ADA-ETH | 900 | Close: 0.00057500 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | -1.34066% (delta: -2e-06)
+
+2021-08-12 03:45:00 | ADA-ETH | 900 | Close: 0.00057100 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | -2.02699% (delta: -6e-06)
+
+2021-08-12 04:00:00 | ADA-ETH | 900 | Close: 0.00057200 | *v MACD: 0.00000 < 0.00000 v* | ERI: sell | WAIT | Last Action: BUY | -1.85541% (delta: -5e-06)
+
+2021-08-12 04:15:00 | ADA-ETH | 900 | Close: 0.00057000 | v MACD: 0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: BUY | -2.19857% (delta: -7e-06)
+
+2021-08-12 04:30:00 | ADA-ETH | 900 | Close: 0.00057000 | v MACD: 0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: BUY | -2.19857% (delta: -7e-06)
+
+2021-08-12 04:45:00 | ADA-ETH | 900 | Close: 0.00057000 | v MACD: 0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: BUY | -2.19857% (delta: -7e-06)
+
+! Ignore Sell Signal (No Sell At Loss)
+2021-08-12 05:00:00 | ADA-ETH | 900 | Close: 0.00056500 | v MACD: -0.00000 < 0.00000 v | ERI: sell | WAIT | Last Action: BUY | -3.05648% (delta: -1.2e-05)
+
+2021-08-12 05:15:00 | ADA-ETH | 900 | Close: 0.00055999 | v MACD: -0.00000 < 0.00000 v | ERI: sell | WAIT | Last Action: BUY | -3.91438% (delta: -1.7e-05)
+
+2021-08-12 05:30:00 | ADA-ETH | 900 | Close: 0.00056800 | v MACD: -0.00000 < -0.00000 v | ERI: buy | WAIT | Last Action: BUY | -2.54173% (delta: -9e-06)
+
+2021-08-12 05:45:00 | ADA-ETH | 900 | Close: 0.00056800 | v MACD: -0.00000 < -0.00000 v | ERI: buy | WAIT | Last Action: BUY | -2.54173% (delta: -9e-06)
+
+2021-08-12 06:00:00 | ADA-ETH | 900 | Close: 0.00056400 | v MACD: -0.00000 < -0.00000 v | ERI: buy | WAIT | Last Action: BUY | -3.22806% (delta: -1.3e-05)
+
+2021-08-12 06:15:00 | ADA-ETH | 900 | Close: 0.00056600 | v MACD: -0.00000 < -0.00000 v | ERI: sell | WAIT | Last Action: BUY | -2.88490% (delta: -1.1e-05)
+
+2021-08-12 06:30:00 | ADA-ETH | 900 | Close: 0.00056600 | v MACD: -0.00000 < -0.00000 v | ERI: buy | WAIT | Last Action: BUY | -2.88490% (delta: -1.1e-05)
+
+2021-08-12 06:45:00 | ADA-ETH | 900 | Close: 0.00056700 | v MACD: -0.00000 < -0.00000 v | ERI: buy | WAIT | Last Action: BUY | -2.71331% (delta: -1e-05)
+
+2021-08-12 07:00:00 | ADA-ETH | 900 | Close: 0.00057200 | *^ MACD: -0.00000 > -0.00000 ^* | ERI: buy | WAIT | Last Action: BUY | -1.85541% (delta: -5e-06)
+
+2021-08-12 07:15:00 | ADA-ETH | 900 | Close: 0.00057200 | ^ MACD: -0.00000 > -0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | -1.85541% (delta: -5e-06)
+
+2021-08-12 07:30:00 | ADA-ETH | 900 | Close: 0.00057200 | ^ MACD: -0.00000 > -0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -1.85541% (delta: -5e-06)
+
+2021-08-12 07:45:00 | ADA-ETH | 900 | Close: 0.00057900 | ^ MACD: 0.00000 > -0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | -0.65434% (delta: 2e-06)
+
+2021-08-12 08:00:00 | ADA-ETH | 900 | Close: 0.00057900 | ^ MACD: 0.00000 > -0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | -0.65434% (delta: 2e-06)
+
+2021-08-12 08:15:00 | ADA-ETH | 900 | Close: 0.00057799 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -0.82592% (delta: 1e-06)
+
+2021-08-12 08:30:00 | ADA-ETH | 900 | Close: 0.00057799 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -0.82592% (delta: 1e-06)
+
+2021-08-12 08:45:00 | ADA-ETH | 900 | Close: 0.00057300 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -1.68383% (delta: -4e-06)
+
+2021-08-12 09:00:00 | ADA-ETH | 900 | Close: 0.00057200 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -1.85541% (delta: -5e-06)
+
+2021-08-12 09:15:00 | ADA-ETH | 900 | Close: 0.00057300 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | -1.68383% (delta: -4e-06)
+
+2021-08-12 09:30:00 | ADA-ETH | 900 | Close: 0.00057500 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | -1.34066% (delta: -2e-06)
+
+2021-08-12 09:45:00 | ADA-ETH | 900 | Close: 0.00057600 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -1.16908% (delta: -1e-06)
+
+2021-08-12 10:00:00 | ADA-ETH | 900 | Close: 0.00057400 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -1.51224% (delta: -3e-06)
+
+2021-08-12 10:15:00 | ADA-ETH | 900 | Close: 0.00057400 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -1.51224% (delta: -3e-06)
+
+2021-08-12 10:30:00 | ADA-ETH | 900 | Close: 0.00057100 | *v MACD: 0.00000 < 0.00000 v* | ERI: sell | WAIT | Last Action: BUY | -2.02699% (delta: -6e-06)
+
+2021-08-12 10:45:00 | ADA-ETH | 900 | Close: 0.00056899 | v MACD: 0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: BUY | -2.37015% (delta: -8e-06)
+
+2021-08-12 11:00:00 | ADA-ETH | 900 | Close: 0.00057000 | v MACD: 0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: BUY | -2.19857% (delta: -7e-06)
+
+! Ignore Sell Signal (No Sell At Loss)
+2021-08-12 11:15:00 | ADA-ETH | 900 | Close: 0.00056899 | v MACD: -0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: BUY | -2.37015% (delta: -8e-06)
+
+2021-08-12 11:30:00 | ADA-ETH | 900 | Close: 0.00056800 | v MACD: -0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: BUY | -2.54173% (delta: -9e-06)
+
+2021-08-12 11:45:00 | ADA-ETH | 900 | Close: 0.00056700 | v MACD: -0.00000 < 0.00000 v | ERI: sell | WAIT | Last Action: BUY | -2.71331% (delta: -1e-05)
+
+2021-08-12 12:00:00 | ADA-ETH | 900 | Close: 0.00057100 | v MACD: -0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: BUY | -2.02699% (delta: -6e-06)
+
+2021-08-12 12:15:00 | ADA-ETH | 900 | Close: 0.00056700 | v MACD: -0.00000 < -0.00000 v | ERI: buy | WAIT | Last Action: BUY | -2.71331% (delta: -1e-05)
+
+2021-08-12 12:30:00 | ADA-ETH | 900 | Close: 0.00056300 | v MACD: -0.00000 < -0.00000 v | ERI: sell | WAIT | Last Action: BUY | -3.39964% (delta: -1.4e-05)
+
+2021-08-12 12:45:00 | ADA-ETH | 900 | Close: 0.00056600 | v MACD: -0.00000 < -0.00000 v | ERI: buy | WAIT | Last Action: BUY | -2.88490% (delta: -1.1e-05)
+
+2021-08-12 13:00:00 | ADA-ETH | 900 | Close: 0.00056700 | v MACD: -0.00000 < -0.00000 v | ERI: buy | WAIT | Last Action: BUY | -2.71331% (delta: -1e-05)
+
+2021-08-12 13:15:00 | ADA-ETH | 900 | Close: 0.00056899 | v MACD: -0.00000 < -0.00000 v | ERI: buy | WAIT | Last Action: BUY | -2.37015% (delta: -8e-06)
+
+2021-08-12 13:30:00 | ADA-ETH | 900 | Close: 0.00056899 | v MACD: -0.00000 < -0.00000 v | ERI: buy | WAIT | Last Action: BUY | -2.37015% (delta: -8e-06)
+
+2021-08-12 13:45:00 | ADA-ETH | 900 | Close: 0.00056800 | v MACD: -0.00000 < -0.00000 v | ERI: sell | WAIT | Last Action: BUY | -2.54173% (delta: -9e-06)
+
+2021-08-12 14:00:00 | ADA-ETH | 900 | Close: 0.00056600 | v MACD: -0.00000 < -0.00000 v | ERI: sell | WAIT | Last Action: BUY | -2.88490% (delta: -1.1e-05)
+
+2021-08-12 14:15:00 | ADA-ETH | 900 | Close: 0.00056500 | v MACD: -0.00000 < -0.00000 v | ERI: sell | WAIT | Last Action: BUY | -3.05648% (delta: -1.2e-05)
+
+2021-08-12 14:30:00 | ADA-ETH | 900 | Close: 0.00056400 | v MACD: -0.00000 < -0.00000 v | ERI: buy | WAIT | Last Action: BUY | -3.22806% (delta: -1.3e-05)
+
+2021-08-12 14:45:00 | ADA-ETH | 900 | Close: 0.00055700 | v MACD: -0.00000 < -0.00000 v | ERI: sell | WAIT | Last Action: BUY | -4.42913% (delta: -2e-05)
+
+2021-08-12 15:00:00 | ADA-ETH | 900 | Close: 0.00056200 | v MACD: -0.00000 < -0.00000 v | ERI: buy | WAIT | Last Action: BUY | -3.57122% (delta: -1.5e-05)
+
+2021-08-12 15:15:00 | ADA-ETH | 900 | Close: 0.00055800 | v MACD: -0.00000 < -0.00000 v | ERI: buy | WAIT | Last Action: BUY | -4.25755% (delta: -1.9e-05)
+
+2021-08-12 15:30:00 | ADA-ETH | 900 | Close: 0.00056400 | v MACD: -0.00000 < -0.00000 v | ERI: buy | WAIT | Last Action: BUY | -3.22806% (delta: -1.3e-05)
+
+2021-08-12 15:45:00 | ADA-ETH | 900 | Close: 0.00056700 | v MACD: -0.00000 < -0.00000 v | ERI: buy | WAIT | Last Action: BUY | -2.71331% (delta: -1e-05)
+
+2021-08-12 16:00:00 | ADA-ETH | 900 | Close: 0.00056600 | *^ MACD: -0.00000 > -0.00000 ^* | ERI: buy | WAIT | Last Action: BUY | -2.88490% (delta: -1.1e-05)
+
+2021-08-12 16:15:00 | ADA-ETH | 900 | Close: 0.00056600 | ^ MACD: -0.00000 > -0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -2.88490% (delta: -1.1e-05)
+
+2021-08-12 16:30:00 | ADA-ETH | 900 | Close: 0.00056500 | ^ MACD: -0.00000 > -0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -3.05648% (delta: -1.2e-05)
+
+*** Candlestick Detected: Morning Star ("Strong - Reversal - Bullish Pattern - Up")
+2021-08-12 16:45:00 | ADA-ETH | 900 | Close: 0.00056899 | ^ MACD: -0.00000 > -0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | -2.37015% (delta: -8e-06)
+
+2021-08-12 17:00:00 | ADA-ETH | 900 | Close: 0.00056899 | ^ MACD: -0.00000 > -0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | -2.37015% (delta: -8e-06)
+
+2021-08-12 17:15:00 | ADA-ETH | 900 | Close: 0.00057200 | ^ MACD: -0.00000 > -0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | -1.85541% (delta: -5e-06)
+
+2021-08-12 17:30:00 | ADA-ETH | 900 | Close: 0.00057400 | ^ MACD: 0.00000 > -0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | -1.51224% (delta: -3e-06)
+
+* Candlestick Detected: Shooting Star ("Weak - Reversal - Bearish Pattern - Down")
+2021-08-12 17:45:00 | ADA-ETH | 900 | Close: 0.00057300 | ^ MACD: 0.00000 > -0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | -1.68383% (delta: -4e-06)
+
+2021-08-12 18:00:00 | ADA-ETH | 900 | Close: 0.00057799 | ^ MACD: 0.00000 > -0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -0.82592% (delta: 1e-06)
+
+2021-08-12 18:15:00 | ADA-ETH | 900 | Close: 0.00057900 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | -0.65434% (delta: 2e-06)
+
+2021-08-12 18:30:00 | ADA-ETH | 900 | Close: 0.00058000 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -0.48276% (delta: 3e-06)
+
+2021-08-12 18:45:00 | ADA-ETH | 900 | Close: 0.00058200 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | -0.13959% (delta: 5e-06)
+
+2021-08-12 19:00:00 | ADA-ETH | 900 | Close: 0.00058000 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | -0.48276% (delta: 3e-06)
+
+2021-08-12 19:15:00 | ADA-ETH | 900 | Close: 0.00057799 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -0.82592% (delta: 1e-06)
+
+2021-08-12 19:30:00 | ADA-ETH | 900 | Close: 0.00057500 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -1.34066% (delta: -2e-06)
+
+2021-08-12 19:45:00 | ADA-ETH | 900 | Close: 0.00057700 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -0.99750% (delta: 0.0)
+
+2021-08-12 20:00:00 | ADA-ETH | 900 | Close: 0.00057799 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | -0.82592% (delta: 1e-06)
+
+2021-08-12 20:15:00 | ADA-ETH | 900 | Close: 0.00057799 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -0.82592% (delta: 1e-06)
+
+2021-08-12 20:30:00 | ADA-ETH | 900 | Close: 0.00057799 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | -0.82592% (delta: 1e-06)
+
+2021-08-12 20:45:00 | ADA-ETH | 900 | Close: 0.00057400 | *v MACD: 0.00000 < 0.00000 v* | ERI: sell | WAIT | Last Action: BUY | -1.51224% (delta: -3e-06)
+
+2021-08-12 21:00:00 | ADA-ETH | 900 | Close: 0.00057600 | v MACD: 0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: BUY | -1.16908% (delta: -1e-06)
+
+2021-08-12 21:15:00 | ADA-ETH | 900 | Close: 0.00057600 | v MACD: 0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: BUY | -1.16908% (delta: -1e-06)
+
+2021-08-12 21:30:00 | ADA-ETH | 900 | Close: 0.00057799 | v MACD: 0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: BUY | -0.82592% (delta: 1e-06)
+
+2021-08-12 21:45:00 | ADA-ETH | 900 | Close: 0.00057500 | v MACD: 0.00000 < 0.00000 v | ERI: sell | WAIT | Last Action: BUY | -1.34066% (delta: -2e-06)
+
+2021-08-12 22:00:00 | ADA-ETH | 900 | Close: 0.00057600 | v MACD: 0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: BUY | -1.16908% (delta: -1e-06)
+
+2021-08-12 22:15:00 | ADA-ETH | 900 | Close: 0.00057400 | v MACD: 0.00000 < 0.00000 v | ERI: sell | WAIT | Last Action: BUY | -1.51224% (delta: -3e-06)
+
+2021-08-12 22:30:00 | ADA-ETH | 900 | Close: 0.00057799 | v MACD: 0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: BUY | -0.82592% (delta: 1e-06)
+
+2021-08-12 22:45:00 | ADA-ETH | 900 | Close: 0.00057700 | v MACD: 0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: BUY | -0.99750% (delta: 0.0)
+
+2021-08-12 23:00:00 | ADA-ETH | 900 | Close: 0.00058500 | *^ MACD: 0.00000 > 0.00000 ^* | ERI: buy | WAIT | Last Action: BUY | 0.37515165% (delta: 8e-06)
+
+2021-08-12 23:15:00 | ADA-ETH | 900 | Close: 0.00059000 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | 1.23305893% (delta: 1.3e-05)
+
+2021-08-12 23:30:00 | ADA-ETH | 900 | Close: 0.00059300 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | 1.74780329% (delta: 1.6e-05)
+
+2021-08-12 23:45:00 | ADA-ETH | 900 | Close: 0.00060200 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | 3.29203640% (delta: 2.5e-05)
+
+2021-08-13 00:00:00 | ADA-ETH | 900 | Close: 0.00060700 | ^ MACD: 0.00001 > 0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | 4.14994367% (delta: 3e-05)
+
+2021-08-13 00:15:00 | ADA-ETH | 900 | Close: 0.00061000 | ^ MACD: 0.00001 > 0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | 4.66468804% (delta: 3.3e-05)
+
+2021-08-13 00:30:00 | ADA-ETH | 900 | Close: 0.00060800 | ^ MACD: 0.00001 > 0.00001 ^ | ERI: sell | WAIT | Last Action: BUY | 4.32152513% (delta: 3.1e-05)
+
+2021-08-13 00:45:00 | ADA-ETH | 900 | Close: 0.00061000 | ^ MACD: 0.00001 > 0.00001 ^ | ERI: sell | WAIT | Last Action: BUY | 4.66468804% (delta: 3.3e-05)
+
+2021-08-13 01:00:00 | ADA-ETH | 900 | Close: 0.00061300 | ^ MACD: 0.00001 > 0.00001 ^ | ERI: buy | WAIT | Last Action: BUY | 5.17943241% (delta: 3.6e-05)
+
+2021-08-13 01:15:00 | ADA-ETH | 900 | Close: 0.00060899 | ^ MACD: 0.00001 > 0.00001 ^ | ERI: sell | WAIT | Last Action: BUY | 4.49310659% (delta: 3.2e-05)
+
+2021-08-13 01:30:00 | ADA-ETH | 900 | Close: 0.00060600 | ^ MACD: 0.00001 > 0.00001 ^ | ERI: sell | WAIT | Last Action: BUY | 3.97836222% (delta: 2.9e-05)
+
+2021-08-13 01:45:00 | ADA-ETH | 900 | Close: 0.00060700 | ^ MACD: 0.00001 > 0.00001 ^ | ERI: sell | WAIT | Last Action: BUY | 4.14994367% (delta: 3e-05)
+
+2021-08-13 02:00:00 | ADA-ETH | 900 | Close: 0.00060600 | ^ MACD: 0.00001 > 0.00001 ^ | ERI: buy | WAIT | Last Action: BUY | 3.97836222% (delta: 2.9e-05)
+
+2021-08-13 02:15:00 | ADA-ETH | 900 | Close: 0.00060499 | ^ MACD: 0.00001 > 0.00001 ^ | ERI: sell | WAIT | Last Action: BUY | 3.80678076% (delta: 2.8e-05)
+
+2021-08-13 02:30:00 | ADA-ETH | 900 | Close: 0.00060499 | *v MACD: 0.00001 < 0.00001 v* | ERI: sell | WAIT | Last Action: BUY | 3.80678076% (delta: 2.8e-05)
+
+2021-08-13 02:45:00 | ADA-ETH | 900 | Close: 0.00062300 | *^ MACD: 0.00001 > 0.00001 ^* | ERI: buy | WAIT | Last Action: BUY | 6.89524697% (delta: 4.6e-05)
+
+! Trailing Stop Loss Triggered (< -1.5%)
+2021-08-13 03:00:00 | ADA-ETH | 900 | Close: 0.00063200 | ^ MACD: 0.00001 > 0.00001 ^ | ERI: buy | SELL | Last Action: BUY | 8.43948007% (delta: 5.5e-05)
+
+2021-08-13 03:00:00 | ADA-ETH | 900 | SELL | 0.000632 | BUY | 0.000577 | DIFF | 5.499999999999993e-05 | DIFF | 87.56515603 | MARGIN NO FEES | 8.43948007% | MARGIN FEES | 5.65392423
+2021-08-13 03:15:00 | ADA-ETH | 900 | Close: 0.00063100 | ^ MACD: 0.00001 > 0.00001 ^ | ERI: sell | WAIT | Last Action: SELL
+2021-08-13 03:30:00 | ADA-ETH | 900 | Close: 0.00063400 | ^ MACD: 0.00001 > 0.00001 ^ | ERI: buy | BUY | Last Action: SELL
+2021-08-13 03:30:00 | ADA-ETH | 900 | Close: 0.00063400 | BUY
+ Support level of 0.000603 formed at 2021-08-13 02:45:00
+ Fibonacci Retracement Levels:{'ratio0_286': 0.0, 'ratio0': 0.0, 'ratio1_272': 0.0}
+2021-08-13 03:45:00 | ADA-ETH | 900 | Close: 0.00063200 | ^ MACD: 0.00001 > 0.00001 ^ | ERI: sell | WAIT | Last Action: BUY | -1.30981% (delta: -2e-06)
+
+2021-08-13 04:00:00 | ADA-ETH | 900 | Close: 0.00063400 | ^ MACD: 0.00001 > 0.00001 ^ | ERI: sell | WAIT | Last Action: BUY | -0.99750% (delta: 0.0)
+
+2021-08-13 04:15:00 | ADA-ETH | 900 | Close: 0.00063300 | ^ MACD: 0.00001 > 0.00001 ^ | ERI: buy | WAIT | Last Action: BUY | -1.15366% (delta: -1e-06)
+
+2021-08-13 04:30:00 | ADA-ETH | 900 | Close: 0.00063599 | ^ MACD: 0.00001 > 0.00001 ^ | ERI: sell | WAIT | Last Action: BUY | -0.68519% (delta: 2e-06)
+
+2021-08-13 04:45:00 | ADA-ETH | 900 | Close: 0.00063500 | ^ MACD: 0.00001 > 0.00001 ^ | ERI: sell | WAIT | Last Action: BUY | -0.84134% (delta: 1e-06)
+
+2021-08-13 05:00:00 | ADA-ETH | 900 | Close: 0.00062900 | ^ MACD: 0.00001 > 0.00001 ^ | ERI: sell | WAIT | Last Action: BUY | -1.77828% (delta: -5e-06)
+
+2021-08-13 05:15:00 | ADA-ETH | 900 | Close: 0.00062800 | *v MACD: 0.00001 < 0.00001 v* | ERI: sell | WAIT | Last Action: BUY | -1.93443% (delta: -6e-06)
+
+2021-08-13 05:30:00 | ADA-ETH | 900 | Close: 0.00062500 | v MACD: 0.00001 < 0.00001 v | ERI: sell | WAIT | Last Action: BUY | -2.40290% (delta: -9e-06)
+
+2021-08-13 05:45:00 | ADA-ETH | 900 | Close: 0.00061900 | v MACD: 0.00001 < 0.00001 v | ERI: buy | WAIT | Last Action: BUY | -3.33983% (delta: -1.5e-05)
+
+2021-08-13 06:00:00 | ADA-ETH | 900 | Close: 0.00062100 | v MACD: 0.00001 < 0.00001 v | ERI: buy | WAIT | Last Action: BUY | -3.02752% (delta: -1.3e-05)
+
+2021-08-13 06:15:00 | ADA-ETH | 900 | Close: 0.00062500 | v MACD: 0.00001 < 0.00001 v | ERI: buy | WAIT | Last Action: BUY | -2.40290% (delta: -9e-06)
+
+2021-08-13 06:30:00 | ADA-ETH | 900 | Close: 0.00062300 | v MACD: 0.00001 < 0.00001 v | ERI: buy | WAIT | Last Action: BUY | -2.71521% (delta: -1.1e-05)
+
+2021-08-13 06:45:00 | ADA-ETH | 900 | Close: 0.00062200 | v MACD: 0.00001 < 0.00001 v | ERI: buy | WAIT | Last Action: BUY | -2.87136% (delta: -1.2e-05)
+
+2021-08-13 07:00:00 | ADA-ETH | 900 | Close: 0.00061799 | v MACD: 0.00000 < 0.00001 v | ERI: buy | WAIT | Last Action: BUY | -3.49599% (delta: -1.6e-05)
+
+2021-08-13 07:15:00 | ADA-ETH | 900 | Close: 0.00061300 | v MACD: 0.00000 < 0.00001 v | ERI: sell | WAIT | Last Action: BUY | -4.27676% (delta: -2.1e-05)
+
+2021-08-13 07:30:00 | ADA-ETH | 900 | Close: 0.00061300 | v MACD: 0.00000 < 0.00001 v | ERI: buy | WAIT | Last Action: BUY | -4.27676% (delta: -2.1e-05)
+
+2021-08-13 07:45:00 | ADA-ETH | 900 | Close: 0.00061100 | v MACD: 0.00000 < 0.00001 v | ERI: sell | WAIT | Last Action: BUY | -4.58907% (delta: -2.3e-05)
+
+2021-08-13 08:00:00 | ADA-ETH | 900 | Close: 0.00060899 | v MACD: 0.00000 < 0.00000 v | ERI: sell | WAIT | Last Action: BUY | -4.90138% (delta: -2.5e-05)
+
+2021-08-13 08:15:00 | ADA-ETH | 900 | Close: 0.00060899 | v MACD: 0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: BUY | -4.90138% (delta: -2.5e-05)
+
+! Ignore Sell Signal (No Sell At Loss)
+2021-08-13 08:30:00 | ADA-ETH | 900 | Close: 0.00061100 | v MACD: -0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: BUY | -4.58907% (delta: -2.3e-05)
+
+2021-08-13 08:45:00 | ADA-ETH | 900 | Close: 0.00062800 | v MACD: 0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: BUY | -1.93443% (delta: -6e-06)
+
+2021-08-13 09:00:00 | ADA-ETH | 900 | Close: 0.00063700 | v MACD: 0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: BUY | -0.52903% (delta: 3e-06)
+
+2021-08-13 09:15:00 | ADA-ETH | 900 | Close: 0.00063200 | *^ MACD: 0.00000 > 0.00000 ^* | ERI: sell | WAIT | Last Action: BUY | -1.30981% (delta: -2e-06)
+
+2021-08-13 09:30:00 | ADA-ETH | 900 | Close: 0.00063200 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -1.30981% (delta: -2e-06)
+
+2021-08-13 09:45:00 | ADA-ETH | 900 | Close: 0.00062800 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -1.93443% (delta: -6e-06)
+
+2021-08-13 10:00:00 | ADA-ETH | 900 | Close: 0.00062500 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -2.40290% (delta: -9e-06)
+
+2021-08-13 10:15:00 | ADA-ETH | 900 | Close: 0.00062500 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | -2.40290% (delta: -9e-06)
+
+2021-08-13 10:30:00 | ADA-ETH | 900 | Close: 0.00062699 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -2.09059% (delta: -7e-06)
+
+2021-08-13 10:45:00 | ADA-ETH | 900 | Close: 0.00062900 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | -1.77828% (delta: -5e-06)
+
+2021-08-13 11:00:00 | ADA-ETH | 900 | Close: 0.00063400 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | -0.99750% (delta: 0.0)
+
+* Candlestick Detected: Shooting Star ("Weak - Reversal - Bearish Pattern - Down")
+2021-08-13 11:15:00 | ADA-ETH | 900 | Close: 0.00063400 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -0.99750% (delta: 0.0)
+
+2021-08-13 11:30:00 | ADA-ETH | 900 | Close: 0.00063100 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -1.46597% (delta: -3e-06)
+
+2021-08-13 11:45:00 | ADA-ETH | 900 | Close: 0.00062500 | *v MACD: 0.00000 < 0.00000 v* | ERI: sell | WAIT | Last Action: BUY | -2.40290% (delta: -9e-06)
+
+2021-08-13 12:00:00 | ADA-ETH | 900 | Close: 0.00063200 | *^ MACD: 0.00000 > 0.00000 ^* | ERI: buy | WAIT | Last Action: BUY | -1.30981% (delta: -2e-06)
+
+2021-08-13 12:15:00 | ADA-ETH | 900 | Close: 0.00063300 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | -1.15366% (delta: -1e-06)
+
+2021-08-13 12:30:00 | ADA-ETH | 900 | Close: 0.00063500 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -0.84134% (delta: 1e-06)
+
+2021-08-13 12:45:00 | ADA-ETH | 900 | Close: 0.00063400 | ^ MACD: 0.00000 > 0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | -0.99750% (delta: 0.0)
+
+2021-08-13 13:00:00 | ADA-ETH | 900 | Close: 0.00063100 | *v MACD: 0.00000 < 0.00000 v* | ERI: sell | WAIT | Last Action: BUY | -1.46597% (delta: -3e-06)
+
+2021-08-13 13:15:00 | ADA-ETH | 900 | Close: 0.00062900 | v MACD: 0.00000 < 0.00000 v | ERI: sell | WAIT | Last Action: BUY | -1.77828% (delta: -5e-06)
+
+2021-08-13 13:30:00 | ADA-ETH | 900 | Close: 0.00062699 | v MACD: 0.00000 < 0.00000 v | ERI: sell | WAIT | Last Action: BUY | -2.09059% (delta: -7e-06)
+
+2021-08-13 13:45:00 | ADA-ETH | 900 | Close: 0.00062600 | v MACD: 0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: BUY | -2.24674% (delta: -8e-06)
+
+2021-08-13 14:00:00 | ADA-ETH | 900 | Close: 0.00062800 | v MACD: 0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: BUY | -1.93443% (delta: -6e-06)
+
+2021-08-13 14:15:00 | ADA-ETH | 900 | Close: 0.00062900 | v MACD: 0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: BUY | -1.77828% (delta: -5e-06)
+
+2021-08-13 14:30:00 | ADA-ETH | 900 | Close: 0.00062300 | v MACD: 0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: BUY | -2.71521% (delta: -1.1e-05)
+
+2021-08-13 14:45:00 | ADA-ETH | 900 | Close: 0.00062000 | v MACD: 0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: BUY | -3.18368% (delta: -1.4e-05)
+
+! Ignore Sell Signal (No Sell At Loss)
+2021-08-13 15:00:00 | ADA-ETH | 900 | Close: 0.00061399 | v MACD: -0.00000 < 0.00000 v | ERI: sell | WAIT | Last Action: BUY | -4.12061% (delta: -2e-05)
+
+2021-08-13 15:15:00 | ADA-ETH | 900 | Close: 0.00061200 | v MACD: -0.00000 < 0.00000 v | ERI: sell | WAIT | Last Action: BUY | -4.43292% (delta: -2.2e-05)
+
+2021-08-13 15:30:00 | ADA-ETH | 900 | Close: 0.00061799 | v MACD: -0.00000 < 0.00000 v | ERI: buy | WAIT | Last Action: BUY | -3.49599% (delta: -1.6e-05)
+
+2021-08-13 15:45:00 | ADA-ETH | 900 | Close: 0.00062500 | v MACD: -0.00000 < -0.00000 v | ERI: buy | WAIT | Last Action: BUY | -2.40290% (delta: -9e-06)
+
+2021-08-13 16:00:00 | ADA-ETH | 900 | Close: 0.00062000 | v MACD: -0.00000 < -0.00000 v | ERI: buy | WAIT | Last Action: BUY | -3.18368% (delta: -1.4e-05)
+
+2021-08-13 16:15:00 | ADA-ETH | 900 | Close: 0.00061900 | v MACD: -0.00000 < -0.00000 v | ERI: buy | WAIT | Last Action: BUY | -3.33983% (delta: -1.5e-05)
+
+2021-08-13 16:30:00 | ADA-ETH | 900 | Close: 0.00061900 | v MACD: -0.00000 < -0.00000 v | ERI: buy | WAIT | Last Action: BUY | -3.33983% (delta: -1.5e-05)
+
+2021-08-13 16:45:00 | ADA-ETH | 900 | Close: 0.00062200 | v MACD: -0.00000 < -0.00000 v | ERI: sell | WAIT | Last Action: BUY | -2.87136% (delta: -1.2e-05)
+
+2021-08-13 17:00:00 | ADA-ETH | 900 | Close: 0.00061900 | v MACD: -0.00000 < -0.00000 v | ERI: buy | WAIT | Last Action: BUY | -3.33983% (delta: -1.5e-05)
+
+2021-08-13 17:15:00 | ADA-ETH | 900 | Close: 0.00062200 | v MACD: -0.00000 < -0.00000 v | ERI: buy | WAIT | Last Action: BUY | -2.87136% (delta: -1.2e-05)
+
+2021-08-13 17:30:00 | ADA-ETH | 900 | Close: 0.00062200 | v MACD: -0.00000 < -0.00000 v | ERI: buy | WAIT | Last Action: BUY | -2.87136% (delta: -1.2e-05)
+
+2021-08-13 17:45:00 | ADA-ETH | 900 | Close: 0.00062600 | *^ MACD: -0.00000 > -0.00000 ^* | ERI: buy | WAIT | Last Action: BUY | -2.24674% (delta: -8e-06)
+
+2021-08-13 18:00:00 | ADA-ETH | 900 | Close: 0.00062400 | ^ MACD: -0.00000 > -0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -2.55905% (delta: -1e-05)
+
+2021-08-13 18:15:00 | ADA-ETH | 900 | Close: 0.00062600 | ^ MACD: -0.00000 > -0.00000 ^ | ERI: buy | WAIT | Last Action: BUY | -2.24674% (delta: -8e-06)
+
+2021-08-13 18:30:00 | ADA-ETH | 900 | Close: 0.00062300 | ^ MACD: -0.00000 > -0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -2.71521% (delta: -1.1e-05)
+
+2021-08-13 18:45:00 | ADA-ETH | 900 | Close: 0.00062000 | ^ MACD: -0.00000 > -0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -3.18368% (delta: -1.4e-05)
+
+2021-08-13 19:00:00 | ADA-ETH | 900 | Close: 0.00061600 | *v MACD: -0.00000 < -0.00000 v* | ERI: sell | WAIT | Last Action: BUY | -3.80830% (delta: -1.8e-05)
+
+2021-08-13 19:15:00 | ADA-ETH | 900 | Close: 0.00061600 | v MACD: -0.00000 < -0.00000 v | ERI: buy | WAIT | Last Action: BUY | -3.80830% (delta: -1.8e-05)
+
+2021-08-13 19:30:00 | ADA-ETH | 900 | Close: 0.00061600 | v MACD: -0.00000 < -0.00000 v | ERI: sell | WAIT | Last Action: BUY | -3.80830% (delta: -1.8e-05)
+
+2021-08-13 19:45:00 | ADA-ETH | 900 | Close: 0.00061700 | v MACD: -0.00000 < -0.00000 v | ERI: buy | WAIT | Last Action: BUY | -3.65214% (delta: -1.7e-05)
+
+2021-08-13 20:00:00 | ADA-ETH | 900 | Close: 0.00062699 | *^ MACD: -0.00000 > -0.00000 ^* | ERI: buy | WAIT | Last Action: BUY | -2.09059% (delta: -7e-06)
+
+2021-08-13 20:15:00 | ADA-ETH | 900 | Close: 0.00062500 | ^ MACD: -0.00000 > -0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -2.40290% (delta: -9e-06)
+
+2021-08-13 20:30:00 | ADA-ETH | 900 | Close: 0.00062600 | ^ MACD: -0.00000 > -0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -2.24674% (delta: -8e-06)
+
+2021-08-13 20:45:00 | ADA-ETH | 900 | Close: 0.00062400 | ^ MACD: 0.00000 > -0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -2.55905% (delta: -1e-05)
+
+2021-08-13 21:00:00 | ADA-ETH | 900 | Close: 0.00062100 | ^ MACD: -0.00000 > -0.00000 ^ | ERI: sell | WAIT | Last Action: BUY | -3.02752% (delta: -1.3e-05)
+
+
+Simulation Summary: 
+
+
+        Note : "sell at loss" is disabled and you have an open trade, if the margin
+               result below is negative it will assume you sold at the end of the
+               simulation which may not be ideal. Try setting --sellatloss 1
+
+
+   Buy Count : 5
+  Sell Count : 4
+   First Buy : 1000
+   Last Sell : 1125.1309220446142
+
+
+      Margin : 12.5130%
+
+
+  ** non-live simulation, assuming highest fees
